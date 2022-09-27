@@ -1,0 +1,65 @@
+body {
+    background-color: #c69f6c;
+    color: #221811;
+    font-family: tahoma;
+}
+header {
+    color: #502116;
+    background-color: #D2B48C;
+    text-align: center;
+}
+h1 {
+    line-height: 200%;
+    border: 1px solid #8C3826;
+    letter-spacing: 2px;
+    font-family: "trebuchet MS";
+    text-shadow: 0px 1px 5px #000000;
+    margin-top: 2px;
+}
+h2 {
+    color: #8C3826;
+    border-bottom: 1px dashed #D2B48C;
+    font-family: "trebuchet MS";
+}
+nav {
+    text-align: center;
+    font-weight: bold;
+    color: #6e502b;
+    text-decoration: none;
+}
+nav a {
+    text-align: center;
+    font-weight: bold;
+    color: #6e502b;
+    text-decoration: none;
+}
+nav a:hover {
+    text-align: center;
+    font-weight: bold;
+    color: #251b0e;
+    text-decoration: none;
+    border-bottom: 1px dashed #251B0E;
+}
+footer {
+    background-color: #D2B48C;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+    border: 1px solid #8C3826;
+}
+#wrapper {
+    width: 80%;
+    background-color: #f1e7da;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    font-family: "century gothic";
+    color: #6e502b;
+    border: 1px solid #8C3826;
+    box-shadow: 2px 2px 10px #000000;
+  
+}
+// used https://www.w3schools.com/cssref/css3_pr_text-shadow.asp for help with text shadow
+// used https://www.w3schools.com/howto/howto_js_topnav.asp for help with navigation effects 
